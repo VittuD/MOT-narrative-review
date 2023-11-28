@@ -10,3 +10,13 @@ Brief narrative review on various recent approaches that tackle multiple object 
 | Attention modules | Implement an attention mechanism to concentrate on the most pertinent features for tracking. |
 | Motion models | Leverage a motion model to forecast the location of objects in subsequent frames. |
 | Siamese networks | Employ a Siamese network to ascertain the similarity between objects in various frames. |
+
+## Related Papers
+
+| Approach | Paper |
+|---|---|
+| Transformers | [TransTrack](https://arxiv.org/abs/2012.15460) |
+| Graph models | |
+| Attention modules | [Tracktor](https://arxiv.org/abs/1903.05625) |
+| Motion models | |
+| Siamese networks | [CountingMOT ?](https://arxiv.org/abs/2212.05861)|
